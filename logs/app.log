@@ -1,0 +1,21 @@
+2023-04-07 06:51:46,529 [INFO] Handling request for read_gateway
+2023-04-07 06:51:46,589 [INFO] Handling request for read_root main
+2023-04-07 06:51:46,682 [INFO] Handling request for Microservice B
+2023-04-07 06:51:52,790 [INFO] Handling request for read_gateway
+2023-04-07 06:51:52,825 [INFO] Handling request for read_root main
+2023-04-07 06:51:52,892 [INFO] Handling request for Microservice B
+2023-04-07 06:58:48,302 - app.gateway - INFO - Handling request for read_gateway
+2023-04-07 06:58:48,359 - app.main - INFO - app.main: Handling request for read_root main
+2023-04-07 06:58:48,415 - app.microservice_b - INFO - Handling request for Microservice B
+2023-04-07 06:58:52,711 - app.gateway - INFO - Handling request for read_gateway
+2023-04-07 06:58:52,753 - app.main - INFO - app.main: Handling request for read_root main
+2023-04-07 06:58:52,810 - app.microservice_b - INFO - Handling request for Microservice B
+2023-04-07 07:01:47,369 - app.gateway - INFO - Handling request for read_gateway
+2023-04-07 07:01:47,423 - app.main - INFO - Handling request for read_root main
+2023-04-07 07:01:47,486 - app.microservice_b - INFO - Handling request for Microservice B
+2023-04-07 07:01:50,571 - app.gateway - INFO - Handling request for read_gateway
+2023-04-07 07:01:50,607 - app.main - INFO - Handling request for read_root main
+2023-04-07 07:01:50,650 - app.microservice_b - INFO - Handling request for Microservice B
+2023-04-07 07:01:52,018 - app.gateway - INFO - Handling request for read_gateway
+2023-04-07 07:01:52,050 - app.main - INFO - Handling request for read_root main
+2023-04-07 07:01:52,104 - app.microservice_b - INFO - Handling request for Microservice B

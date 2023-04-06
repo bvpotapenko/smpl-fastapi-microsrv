@@ -1,0 +1,3 @@
+main_service_name: http://127.0.0.1:8000/
+a_service_name: http://127.0.0.1:8001/
+b_service_name: http://127.0.0.1:8002/
