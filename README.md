@@ -1,15 +1,16 @@
-#FastAPI Gateway Project
-##Description
+# FastAPI Gateway Project
+
+## Description
 This project is a simple API Gateway built with FastAPI. The API Gateway is designed to route requests to various microservices and provide a single entry point for clients.
 
-##Requirements
+## Requirements
 Python 3.9+
 FastAPI
 Uvicorn
 HTTPX
 Pytest
 
-##Installation
+## Installation
 1. Clone the project repository:
 ```bash
 git clone https://github.com/your-username/fastapi-gateway.git
@@ -32,7 +33,7 @@ venv\Scripts\activate  # For Windows
 pip install -r requirements.txt
 ```
 
-##Running the Application
+## Running the Application
 1. Start the application using Uvicorn:
 ```bash
 uvicorn main:app --reload --port 8000
@@ -42,7 +43,7 @@ uvicorn app.gateway:app --reload --port 8003
 ```
 2. The gateway will be accessible at http://127.0.0.1:8003 
 
-##Running Tests
+## Running Tests
 1. Install the required test dependencies:
 ```bash
 pip install -r requirements-test.txt
@@ -55,7 +56,7 @@ pytest tests/test_main_async2.py
 pytest tests/test_main_sync.py
 ```
 
-##Project Structure
+## Project Structure
 ```
 .
 ├── app
@@ -74,10 +75,10 @@ pytest tests/test_main_sync.py
 ├── requirements.txt
 └── requirements-test.txt
 ```
-##Usage
+## Usage
 1. Update the config.py file with the necessary information about the microservices.
 2. Make requests to the API Gateway using the appropriate endpoints, and the gateway will route the requests to the respective microservices.
 3. Check the log file gateway.log for logs related to the API Gateway.
 
-##Contributing
+## Contributing
 Feel free to submit issues, create pull requests or fork the project to make your own improvements. We appreciate any contributions!
