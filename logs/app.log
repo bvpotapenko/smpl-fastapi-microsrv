@@ -19,3 +19,6 @@
 2023-04-07 07:01:52,018 - app.gateway - INFO - Handling request for read_gateway
 2023-04-07 07:01:52,050 - app.main - INFO - Handling request for read_root main
 2023-04-07 07:01:52,104 - app.microservice_b - INFO - Handling request for Microservice B
+2023-04-07 07:17:14,614 - app.main - INFO - Handling request for read_root main
+2023-04-07 07:17:22,581 - app.main - INFO - Handling request for read_root main
+2023-04-07 07:17:31,284 - app.main - INFO - Handling request for read_root main
