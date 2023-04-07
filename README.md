@@ -82,4 +82,3 @@ pytest tests/test_main_sync.py
 
 ## Contributing
 Feel free to submit issues, create pull requests or fork the project to make your own improvements. We appreciate any contributions!
-=======
